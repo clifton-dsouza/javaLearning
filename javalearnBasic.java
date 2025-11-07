@@ -24,5 +24,16 @@ public class javalearnBasic{
         String s = calc.cost(5);
         calc.pen();
         System.out.println(s);
+        int size = 5;
+        int a[] = new int[size];
+        
+        a[0]= 24;
+        a[1]=34;
+
+        for(int n:a){
+            System.out.println(n);
+        }
+        
+
     }
 }

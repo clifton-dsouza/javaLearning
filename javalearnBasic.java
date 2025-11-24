@@ -14,10 +14,6 @@ class calculator{
     }
 }
 
-
-
-
-
 public class javalearnBasic{
     public static void main(String[] args){
         calculator calc = new calculator();
